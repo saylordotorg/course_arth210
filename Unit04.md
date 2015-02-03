@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH210 - American Art"
+course: ARTH210
+course_fulltitle: "American Art"
+course_description: "A detailed study of American Art from the colonial era through the postwar twentieth century, with particular attention to the historical and cultural context of artwork in America."
+---
 **Unit 4: The Civil War Era to the Gilded Age** <span id="4"></span> 
 *The visual culture of the Civil War is extensive, with the explosion of
 the popular illustrated press.  For the first time, the death and

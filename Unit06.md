@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH210 - American Art"
+course: ARTH210
+course_fulltitle: "American Art"
+course_description: "A detailed study of American Art from the colonial era through the postwar twentieth century, with particular attention to the historical and cultural context of artwork in America."
+---
 **Unit 6: The 1930s Through WWII** <span id="6"></span> 
 *The New Deal offered government employment for artists.  Themes related
 to self-reliance, as represented in broad categorical styles best known
