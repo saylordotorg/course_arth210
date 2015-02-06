@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH210 - American Art"
-course: ARTH210
-course_fulltitle: "American Art"
+title: "ARTH210: American Art"
 course_description: "A detailed study of American Art from the colonial era through the postwar twentieth century, with particular attention to the historical and cultural context of artwork in America."
+next: ../Unit03
+previous: ../Unit01
+bgimage: arth210.jpg
 ---
 **Unit 2: The 18th Century** <span id="2"></span> 
 *During the 18<sup>th</sup> century, threats to Native American

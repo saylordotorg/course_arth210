@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH210 - American Art"
-course: ARTH210
-course_fulltitle: "American Art"
+title: "ARTH210: American Art"
 course_description: "A detailed study of American Art from the colonial era through the postwar twentieth century, with particular attention to the historical and cultural context of artwork in America."
+next: ../Unit04
+previous: ../Unit02
+bgimage: arth210.jpg
 ---
 **Unit 3: 1800 to Circa 1860** <span id="3"></span> 
 *Portrait painting became popular from the time of Protestant

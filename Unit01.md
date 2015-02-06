@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH210 - American Art"
-course: ARTH210
-course_fulltitle: "American Art"
+title: "ARTH210: American Art"
 course_description: "A detailed study of American Art from the colonial era through the postwar twentieth century, with particular attention to the historical and cultural context of artwork in America."
+next: ../Unit02
+previous: ../Intro
+bgimage: arth210.jpg
 ---
 **Unit 1: The Americas: 16th and 17th Centuries** <span id="1"></span> 
 *The indigenous and early Colonial culture in South and Central America
