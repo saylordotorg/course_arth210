@@ -100,3 +100,4 @@ Western Art History: Pre-historic to High Gothic).
 - [Unit 6](https://legacy.saylor.org/arth210/Unit06/)
 - [Unit 7](https://legacy.saylor.org/arth210/Unit07/)
 - [Unit 8](https://legacy.saylor.org/arth210/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH210/ARTH210-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH210/ARTH210-FinalExam-Answers.html)
