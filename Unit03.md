@@ -316,7 +316,7 @@ be in a first-hand viewing of the 25-foot-long canvas.  *
     INTRODUCTION, above) and compose an essay (2-3 typed, double-spaced
     pages) from notes taken at a personal viewing.  Refer to [The Saylor
     Foundation’s ARTH210
-    Worksheet](https://resources.saylor.org/archived/wp-content/uploads/2010/12/ARTH210-Worksheet.pdf). 
+    Worksheet](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2010/12/ARTH210-Worksheet.pdf). 
     Begin with data.  Include a careful description of the basic subject
     depicted, medium/technique, and formal aspects (as applicable/what
     is most prominent in the piece).  Then offer a summary of its

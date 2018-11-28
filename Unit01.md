@@ -110,7 +110,7 @@ the first extant depictions dating from the 1500s.*
 
 -   **Web Media: The Saylor Foundation's “Florentine Codex”**
     Link: The Saylor Foundation's [“Florentine
-    Codex”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Unit-1.2-Florentine-Codex.pdf)
+    Codex”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Unit-1.2-Florentine-Codex.pdf)
     (PDF)  
         
      Instructions: Please click on the link above to view some images of
